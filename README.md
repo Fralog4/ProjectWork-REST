@@ -13,16 +13,15 @@ This project implements a REST API microservice in Java using the Spring Boot fr
 1. Clone this repository.
 2. Install the required dependencies.
 3. Run the application using your preferred method.
-4. Interact with the API using tools like Postman or curl.
+4. Interact with the API using tools like Postman.
 
 **API Endpoints**
 
-* **Create a company:** (Describe the endpoint for creating a company)
-* **Get all companies:** (Describe the endpoint for retrieving all companies)
-* **Get a company by ID:** (Describe the endpoint for getting a specific company)
-* **Update a company:** (Describe the endpoint for updating company details)
-* **Delete a company:** (Describe the endpoint for deleting a company)
-
+* **Create a company** 
+* **Get all companies**
+* **Get a company by ID** 
+* **Update a company**
+* **Delete a company** 
 **Enjoy using this Spring Boot REST API!**
 
 
