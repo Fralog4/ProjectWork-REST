@@ -10,11 +10,9 @@ This project implements a REST API microservice in Java using the Spring Boot fr
 
 **Getting Started**
 
-(Replace these instructions with your specific setup process)
-
 1. Clone this repository.
 2. Install the required dependencies.
-3. Run the application using your preferred method (e.g., `mvn spring-boot:run`).
+3. Run the application using your preferred method.
 4. Interact with the API using tools like Postman or curl.
 
 **API Endpoints**
